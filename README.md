@@ -8,10 +8,10 @@ The goal is to transform raw sales data into actionable insights that support st
 To monitor and optimize ALDI’s sales performance by analyzing revenue patterns across time (daily, weekly, monthly), identifying top-performing products and stores, and providing data-driven recommendations.
 
 ## 🛠️ Tools & Skills Used
-- Microsoft Excel
-- Pivot Tables
-- Data Visualization
-- Business Analysis
+- Microsoft Excel – For data cleaning, transformation, and analysis
+- Pivot Tables – For data summarization and KPI extraction
+- Data Visualization – For dashboard design and storytelling
+- Business Analysis – For insight generation and recommendations
 
 ## 📂 Project Resources
 - **Dashboard Image:** [View Dashboard](https://github.com/GlorexKoya/Aldi-Retail-Analysis-Project/blob/main/Screenshot%202026-05-09%20124555.png)
