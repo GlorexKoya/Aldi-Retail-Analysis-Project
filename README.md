@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis of ALDI Superstores
+# Sales Performance Analysis of ALDI Superstores
 
 ## 📌 Project Overview
 This project analyzes ALDI’s retail sales performance to uncover trends in revenue, product demand, and store efficiency.
