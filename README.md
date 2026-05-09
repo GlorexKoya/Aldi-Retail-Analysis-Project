@@ -14,7 +14,7 @@ To monitor and optimize ALDI’s sales performance by analyzing revenue patterns
 - Business Analysis
 
 ## 📂 Project Resources
-- **Dashboard Image:** [View Dashboard]((https://github.com/GlorexKoya/Aldi-Retail-Analysis-Project/blob/main/Screenshot%202026-05-09%20124555.png))
+- **Dashboard Image:** [View Dashboard](https://github.com/GlorexKoya/Aldi-Retail-Analysis-Project/blob/main/Screenshot%202026-05-09%20124555.png)
 - **Raw Dataset:** [Download Dataset](https://github.com/GlorexKoya/Aldi-Retail-Analysis-Project/blob/main/Aldi%20UK%20Data%20Repo.xlsx)
 - **Excel Working Sheet:** [View Excel File](https://github.com/GlorexKoya/Aldi-Retail-Analysis-Project/blob/main/ALDI_Working_sheet.xlsx)
 
