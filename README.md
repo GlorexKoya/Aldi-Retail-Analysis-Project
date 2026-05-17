@@ -53,7 +53,7 @@ This analysis reveals clear patterns in customer behavior, product demand, and s
 
 By leveraging these insights, ALDI can optimize operations, improve underperforming areas, and drive sustained growth through data driven decision making.
 
-## 🙍🏽 About Me
+## 🙋 About Me
 Hi, I’m Glory Oluwakoya, a Data Analyst passionate about transforming raw business data into clear, actionable insights to support strategic decision-making. I enjoy working with tools like Excel, SQL, Power BI, and Python to uncover trends and solve business problems.
 
 🔗 Portfolio: [https://www.datascienceportfol.io/gloryoluwakoya08]
