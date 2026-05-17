@@ -58,4 +58,5 @@ Hi, I’m Glory Oluwakoya, a Data Analyst passionate about transforming raw busi
 
 🔗 Portfolio: [https://www.datascienceportfol.io/gloryoluwakoya08]
 🔗 LinkedIn: [www.linkedin.com/in/glory-oluwakoya-5032a937b]
+✉️ Email: gloryoluwakoya08@gmail.com
 
