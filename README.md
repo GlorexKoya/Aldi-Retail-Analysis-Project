@@ -56,7 +56,7 @@ By leveraging these insights, ALDI can optimize operations, improve underperform
 ## 🙋 About Me
 Hi, I’m Glory Oluwakoya, a Data Analyst passionate about transforming raw business data into clear, actionable insights to support strategic decision-making. I enjoy working with tools like Excel, SQL, Power BI, and Python to uncover trends and solve business problems.
 
-🔗 Portfolio: [https://www.datascienceportfol.io/gloryoluwakoya08]
-🔗 LinkedIn: [www.linkedin.com/in/glory-oluwakoya-5032a937b]
+🔗 Portfolio: [View Portfolio](https://www.datascienceportfol.io/gloryoluwakoya08) <br>
+🔗 LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/glory-oluwakoya-5032a937b) <br>
 ✉️ Email: gloryoluwakoya08@gmail.com
 
