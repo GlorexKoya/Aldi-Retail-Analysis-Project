@@ -39,7 +39,7 @@ To monitor and optimize ALDI’s sales performance by analyzing revenue patterns
 - May and June were our best months, showing the highest sales.
 - Tablets and Phones are the top revenue generating products.
 - Store A and the Online channel are the top two selling channels.
-- Tuesday is our busiest sales day, while Saturday is the slowest day.
+- Tuesday is our busiest sales day, while Saturday records the lowest sales.
 ## 💡 Recommendations
 - We can introduce promotions or special offers on Tuesdays so as to leverage our busiest shopping day.
 - We should Investigate the underperformance in Store D and Store E and implement improvement strategies.
@@ -52,4 +52,10 @@ ALDI demonstrates strong sales performance with nearly £1.9M in annual revenue.
 This analysis reveals clear patterns in customer behavior, product demand, and store performance.
 
 By leveraging these insights, ALDI can optimize operations, improve underperforming areas, and drive sustained growth through data driven decision making.
+
+## 🙍🏽 About Me
+Hi, I’m Glory Oluwakoya, a Data Analyst passionate about transforming raw business data into clear, actionable insights to support strategic decision-making. I enjoy working with tools like Excel, SQL, Power BI, and Python to uncover trends and solve business problems.
+
+🔗 Portfolio: [https://www.datascienceportfol.io/gloryoluwakoya08]
+🔗 LinkedIn: [www.linkedin.com/in/glory-oluwakoya-5032a937b]
 
