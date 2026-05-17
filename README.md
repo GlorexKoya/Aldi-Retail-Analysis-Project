@@ -35,14 +35,13 @@ To monitor and optimize ALDI’s sales performance by analyzing revenue patterns
 - I combined all insights into a single interactive dashboard with slicers for dynamic analysis.
 
 ## 🔍 Key Insights
-- Total revenue generated is £1,870,223, which indicates strong overall performance.
-- May and June recorded the highest sales.
+- Our Total revenue for the year reached £1,870,223.
+- May and June were our best months, showing the highest sales.
 - Tablets and Phones are the top revenue generating products.
-- Store A and the Online channel contribute the highest share of revenue.
-- Tuesday is the busiest sales day, while Saturday records the lowest activity.
-
+- Store A and the Online channel are the top two selling channels.
+- Tuesday is our busiest sales day, while Saturday is the slowest day.
 ## 💡 Recommendations
-- ALDI can leverage peak demand by introducing promotions or special offers on Tuesdays.
+- We can introduce promotions or special offers on Tuesdays so as to leverage our busiest shopping day.
 - We should Investigate the underperformance in Store D and Store E and implement improvement strategies.
 - We can run a combined product sale, such as (Keyboard and Tablet) sale, so as to ensure underperforming products sell also.
 - We ensure products in high demand like tablet, are well stocked ahead of peak months, which is May and June.
