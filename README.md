@@ -25,7 +25,7 @@ To monitor and optimize ALDI’s sales performance by analyzing revenue patterns
 - What is the revenue trend across the months?
 - Which products generate the most revenue?
 - Which stores generate the highest revenue?
-- On which days do we record the highest sales?
+- On which days does ALDI record the highest sales?
 - In which stores does each product sell the most?
 
 ## 🧩 Process
@@ -35,17 +35,17 @@ To monitor and optimize ALDI’s sales performance by analyzing revenue patterns
 - I combined all insights into a single interactive dashboard with slicers for dynamic analysis.
 
 ## 🔍 Key Insights
-- Our Total revenue for the year reached £1,870,223.
-- May and June were our best months, showing the highest sales.
+- The Total revenue for the year reached £1,870,223.
+- May and June were the best performing months, showing the highest sales.
 - Tablets and Phones are the top revenue generating products.
 - Store A and the Online channel are the top two selling channels.
-- Tuesday is our busiest sales day, while Saturday records the lowest sales.
+- Tuesday is the busiest sales day, while Saturday records the lowest sales.
 ## 💡 Recommendations
-- We can introduce promotions or special offers on Tuesdays so as to leverage our busiest shopping day.
-- We should Investigate the underperformance in Store D and Store E and implement improvement strategies.
-- We can run a combined product sale, such as (Keyboard and Tablet) sale, so as to ensure underperforming products sell also.
-- We ensure products in high demand like tablet, are well stocked ahead of peak months, which is May and June.
-- We should expand investment in digital marketing, given our strong online sales performance.
+- ALDI can introduce promotions or special offers on Tuesdays so as to leverage their busiest shopping day.
+- They should Investigate the underperformance in Store D and Store E and implement improvement strategies.
+- They can run a combined product sale, such as (Keyboard and Tablet) sale, so as to ensure underperforming products sell also.
+- They should ensure products in high demand like tablet, are well stocked ahead of peak months, which is May and June.
+- ALDI can expand their investment in digital marketing, given their strong online sales performance.
 
 ## ✅ Final Conclusion
 ALDI demonstrates strong sales performance with nearly £1.9M in annual revenue.
